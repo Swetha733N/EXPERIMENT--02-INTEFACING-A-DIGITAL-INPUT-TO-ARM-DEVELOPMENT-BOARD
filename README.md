@@ -1,5 +1,4 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-![Uploading exp 02(2).png…]()
 
 ## Aim:
 
